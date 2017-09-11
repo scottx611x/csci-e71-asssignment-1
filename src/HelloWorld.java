@@ -9,7 +9,7 @@ public class HelloWorld {
         }
         finally {
             System.out.println(message);
-            System.exit( 0 );
         }
+        System.exit( 0 );
     }
 }
